@@ -1,2 +1,2 @@
-# Sorteador-de-Frases-Motivacionais
-Um projeto feito com JavaScript combinado com HTML e CSS
+<h1>Sorteador-de-Frases-Motivacionais</h1>
+<p>Um sorteador de frases motivacionais simples de usar. Feito com Javascript puro, HTML e CSS</p>
